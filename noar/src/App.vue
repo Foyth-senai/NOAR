@@ -7,10 +7,10 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <main class="flex-column">
     <div class="glass">
+      <!-- Cabecalho -->
       <header id="cabecalho">
         <img src="../public/noar_pequena.png" alt="Logo">
       </header>
-
       <form action="" class="meio">
         <div class="container">
           <input required="" type="text" name="text" class="input">
